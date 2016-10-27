@@ -1,0 +1,89 @@
+html{
+	background: url("https://i.gyazo.com/6a76f2ff80e38af7ddf021e6df1ac6b2.png") no-repeat center center fixed;
+           -webkit-background-size: cover;
+           -moz-background-size: cover;
+           -o-background-size: cover;
+            background-size: cover;
+}
+#main{
+	width: 600px;
+	margin: auto;
+}
+
+#header {
+	background-image: url("https://i.gyazo.com/63d32bb2cb07277407c7abdf3023cf39.png");
+	background-size: 600px 320px;
+	width: 600px;
+	height: 320px;
+	margin-bottom: 15px;
+}
+
+#navigation{
+
+}
+
+#content{
+	margin-top: 10px;
+	background-color: white;
+	border:solid 3px black;
+	border-radius: 40px;
+	padding: 50px 80px 60px 80px;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+	line-height: 40px;
+	text-align: center;
+}
+
+#footer{
+	margin-top: 10px;
+	background-color: white;
+	border:solid 2px black;
+	border-radius: 40px;
+	padding: 20px 20px 20px 10px;
+	text-align: center;
+	font-family: "Comic Sans MS";
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    background-color: white;
+    border:solid 2px black;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding-bottom: 18px;
+    width: 100px;
+    height: 30px;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Comic Sans MS";
+    font-size: 15px;
+}
+
+#fishy {
+	position: fixed;
+	top: 565px;
+	right: 110px;
+}
+
+li.sidebar {
+	float: none;
+	margin-bottom: 15px;
+}
+
+#navbar1{
+	margin-right: 0;
+}
+
